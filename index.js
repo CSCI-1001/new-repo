@@ -23,8 +23,8 @@ export default function Home() {
 
         <div className='grid'>
           <a href='/jakeCarroll' className='card'>
-            <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
+            <h3>Jake Carroll's Page' &rarr;</h3>
+            <p>Click here to navigate to an Jake's page</p>
           </a>
           <a
             href='https://github.com/wangalec/website-template'
