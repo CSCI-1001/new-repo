@@ -21,11 +21,11 @@ export default function Home() {
             <p>Click here to navigate to an Jake's page</p>
           </a>
           <a
-            href='https://github.com/wangalec/website-template'
+            href='/justinGoh'
             className='card'>
-            <h3>Project Resources&rarr;</h3>
+            <h3>Justin Goh's Page&rarr;</h3>
             <p>
-              Return to the Github for resources on creating your own website!
+              Click here to navigate to an Justin's page
             </p>
           </a>
           <a
