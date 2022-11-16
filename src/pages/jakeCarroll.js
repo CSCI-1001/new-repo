@@ -10,8 +10,8 @@ export default function examplePage() {
          </div>
          <img
            className='pic'
-           src='file:///Users/jakecarroll/Desktop/IMG_4963.JPG'
-           alt='tubing'
+           src='https://i.kym-cdn.com/photos/images/original/001/809/295/3d5.jpg'
+           alt='Patrick Star'
          />
  
          <p className='description'>
